@@ -1,5 +1,4 @@
 # [Bob](https://github.com/lucasjcruz/bob) ・ [Booby](https://github.com/lucasjcruz/booby) 
-![GitHub repo size](https://img.shields.io/github/repo-size/lucasjcruz/bob?style=for-the-badge)
 
 
 > Bob é um resource em que faz callRemote com o Booby, bot do Discord.
