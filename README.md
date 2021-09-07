@@ -20,7 +20,7 @@ Eu apenas o editei colocando as respotas em ingles e fazendo uma conexão com o 
 - Fundador e autor do projeto - [androksi](https://github.com/androksi/tutorial-mtasa-discordapp)
 - Tutorial onde peguei o projeto - [MTA:SA](https://forum.mtasa.com/topic/129192-tutorial-como-executar-a%C3%A7%C3%B5es-no-mta-utilizando-um-bot-do-discord/)
 
-##Colaboradores
+## Colaboradores
 
 Agradeço aos seguintes colaboradores do projeto.
 
