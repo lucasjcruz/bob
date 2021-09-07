@@ -1,0 +1,8 @@
+<meta>
+    <info author="andr0xy" type="script" name="Discord App" version="1.0.0" />
+	<editor author="Lukao" type="script" name="BoobyBot" version="1.0.3" />
+
+    <script src="server/discord.lua" type="server" />
+
+    <export function="discordRequest" type="server" http="true" />
+</meta>
